@@ -12,6 +12,7 @@ What each lab covers:
 * day8 - IPv4 addressing, assigning IPs to router interfaces
 * day9 - switch port settings, speed/duplex and autonegotiation
 * day10 - ipv4 header fields (theory, no lab)
+* day11 - routing fundamentals, routing table, route selection (theory, lab in day12)
 
 Will keep adding as I go through the course.
 
