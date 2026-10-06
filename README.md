@@ -13,6 +13,7 @@ What each lab covers:
 * day9 - switch port settings, speed/duplex and autonegotiation
 * day10 - ipv4 header fields (theory, no lab)
 * day11 - routing fundamentals, routing table, route selection (theory, lab in day12)
+* day11(Part-1): Static Routing - static routes on R1, R2 and R3 (PC1 to PC2 ping)
 
 Will keep adding as I go through the course.
 
