@@ -15,6 +15,7 @@ What each lab covers:
 * day11 - routing fundamentals, routing table, route selection (theory, lab in day12)
 * day11(Part-1): Static Routing - static routes on R1, R2 and R3 (PC1 to PC2 ping)
 * day11(Part-2): Static Routing troubleshooting lab - found and fixed misconfigured routes and interface IP addresses
+* day12: Life of a Packet lab - traced a ping hop by hop in simulation mode (ARP, MAC rewrite at each router)
 
 Will keep adding as I go through the course.
 
