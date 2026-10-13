@@ -13,9 +13,11 @@ What each lab covers:
 * day9 - switch port settings, speed/duplex and autonegotiation
 * day10 - ipv4 header fields (theory, no lab)
 * day11 - routing fundamentals, routing table, route selection (theory, lab in day12)
-* day11(Part-1): Static Routing - static routes on R1, R2 and R3 (PC1 to PC2 ping)
-* day11(Part-2): Static Routing troubleshooting lab - found and fixed misconfigured routes and interface IP addresses
-* day12: Life of a Packet lab - traced a ping hop by hop in simulation mode (ARP, MAC rewrite at each router)
+* day11(Part-1) - Static Routing - static routes on R1, R2 and R3 (PC1 to PC2 ping)
+* day11(Part-2) - Static Routing troubleshooting lab - found and fixed misconfigured routes and interface IP addresses
+* day12 - Life of a Packet lab - traced a ping hop by hop in simulation mode (ARP, MAC rewrite at each router)
+* day13 - subnetting basics. learned how to split a /24 network into subnets, calculating host bits (2^n - 2), prefix lengths and block sizes
+* day14 - subnetting practice. solved class C questions (find the subnet of a given host, list subnets with their ranges) and started subnetting class B networks
 
 Will keep adding as I go through the course.
 
