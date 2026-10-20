@@ -19,6 +19,7 @@ What each lab covers:
 * day13 - subnetting basics. learned how to split a /24 network into subnets, calculating host bits (2^n - 2), prefix lengths and block sizes
 * day14 - subnetting practice. solved class C questions (find the subnet of a given host, list subnets with their ranges) and started subnetting class B networks
 * day15 - Subnetting Part 3 (VLSM) - allocated different-sized subnets from a single network based on host requirements
+* day16(Part-1) - VLANs Part 1 lab - assigned switch ports to VLANs as access ports and configured router interfaces as gateways for each VLAN subnet
 
 Will keep adding as I go through the course.
 
