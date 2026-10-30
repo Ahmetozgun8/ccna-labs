@@ -21,7 +21,7 @@ What each lab covers:
 * day15 - Subnetting Part 3 (VLSM) - allocated different-sized subnets from a single network based on host requirements
 * day16(Part-1) - VLANs Part 1 lab - assigned switch ports to VLANs as access ports and configured router interfaces as gateways for each VLAN subnet
 * day17 - vlans part 2. learned how vlans split a switch into separate broadcast domains, assigning access ports to vlans and mapping one subnet per vlan
-* day18 - VLANs Part 3 - native VLAN on a router (ROAS) and Layer 3 switching with SVIs
+* day18 - VLANs Part 3 lab - migrated inter-VLAN routing from router on a stick to a Layer 3 switch with SVIs, a routed port and a default route
 
 Will keep adding as I go through the course.
 
