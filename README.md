@@ -22,6 +22,7 @@ What each lab covers:
 * day16(Part-1) - VLANs Part 1 lab - assigned switch ports to VLANs as access ports and configured router interfaces as gateways for each VLAN subnet
 * day17 - vlans part 2. learned how vlans split a switch into separate broadcast domains, assigning access ports to vlans and mapping one subnet per vlan
 * day18 - VLANs Part 3 lab - migrated inter-VLAN routing from router on a stick to a Layer 3 switch with SVIs, a routed port and a default route
+* day30: TCP and UDP - Layer 4 functions, port numbers and session multiplexing, TCP header and three-way handshake, UDP and TCP vs UDP comparison, common port numbers
 
 Will keep adding as I go through the course.
 
